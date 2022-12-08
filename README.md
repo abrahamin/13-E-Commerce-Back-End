@@ -7,10 +7,10 @@
   In order to meet the Acceptance Criteria of the project:
 
   * Express.js API, Sequelize, and MySQL database/username/password values are used to connect to a database
-  * Schema and seed commands creates a development database with test data
+  * Schema and seed commands create a development database with test data
   * The server is started and the Sequelize models are synced to the database via a command
-  * API GET routes for categories, products, and tags in Insomnia Core displays data in formatted JSON
-  * API POST/PUT/DELETE routes in Insomnia Core creates, updates, and removes data in the database
+  * API GET routes for categories, products, and tags in Insomnia Core display data in formatted JSON
+  * API POST/PUT/DELETE routes in Insomnia Core creates, updates, and removes data respectively in the database
 
   ## Table of Contents
 
